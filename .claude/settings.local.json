@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(__NEW_LINE_741ee4e7bb410e91__ echo -e \"\\\\n=== Chat導入検討 \\(316\\) ===\")",
+      "Bash(__NEW_LINE_0292aba37693d217__ echo -e \"\\\\n=== Chat導入内諾 \\(311\\) ===\")",
+      "Bash(__NEW_LINE_e7f591d5083eb500__ echo -e \"\\\\n=== チーム発行完了 \\(315\\) ===\")",
+      "Bash(__NEW_LINE_f800f10339ae2865__ echo -e \"\\\\n=== agent調整完了 \\(313\\) ===\")",
+      "Bash(__NEW_LINE_8eae3f58a9e52a43__ echo -e \"\\\\n=== HPに実装待ち \\(318\\) ===\")",
+      "Bash(__NEW_LINE_b9027d6b93cde974__ echo -e \"\\\\n=== 無料期間契約 \\(317\\) ===\")",
+      "WebFetch(domain:developers.pipedrive.com)",
+      "WebSearch",
+      "Bash(for:*)",
+      "Bash(do)",
+      "Bash(done)",
+      "Bash(npm update:*)",
+      "Bash(claude --version)",
+      "Bash(source:*)"
+    ]
+  }
+}
